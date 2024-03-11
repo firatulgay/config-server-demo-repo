@@ -1,4 +1,5 @@
-datasource:
-  url: 'testUrl'
-  username: 'testUser'
-  password: 'testPassword'
+spring:
+  datasource:
+    url: 'testUrl'
+    username: 'testUser'
+    password: 'testPassword'
